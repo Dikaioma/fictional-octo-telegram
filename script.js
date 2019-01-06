@@ -1,3 +1,1 @@
-let pizza = function() {
-	$('.pizza').css('background-color: yellow');
-}
+$('#pizza').click('background-color: yellow');
