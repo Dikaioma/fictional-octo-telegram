@@ -5,3 +5,7 @@ h1 {
 	font-family: courier;
 	text-transform: uppercase;
 }
+.pizza {
+	border-radius: 50%;
+	background-color: blue;
+}
